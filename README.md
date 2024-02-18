@@ -18,6 +18,7 @@ Data Reporting/Analytics: Generating dashboards to communicate insights effectiv
 
 ## Data Overview
 Dataset: https://www.kaggle.com/datasets/datasnaek/youtube-new
+
 The dataset comprises daily statistics for trending YouTube videos, with each region's data stored in separate CSV files. The data includes various attributes such as video title, channel title, publish time, tags, views, likes, dislikes, description, and comment count. Additionally, each video is associated with a category, stored in separate JSON files specific to each region.
 
 ## ETL Pipeline and Data Warehouse
